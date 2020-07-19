@@ -10,3 +10,8 @@ Ejecutar este comando
 ```
 npm install
 ```
+
+### ejemplo 
+```
+node app -d "Curacautins Chiless"
+```
