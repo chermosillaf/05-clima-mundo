@@ -13,5 +13,5 @@ npm install
 
 ### ejemplo 
 ```
-node app -d "Curacautins Chiless"
+node app -d "Curacautin Chile"
 ```
